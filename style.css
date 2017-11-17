@@ -1,13 +1,14 @@
 body {
-	background: grey;
-	text-align: center;
-}
+  background: grey;
+  text-align: center; }
+
 h1,
 h2 {
-	color:yellow;
-}
+  color: blue; }
+
 p {
-	padding: 20px 5px 0;
-	color: white;
-	text-align: justify;
-}
+  padding: 20px 5px 0;
+  color: white;
+  text-align: justify; }
+
+/*# sourceMappingURL=style.css.map */
