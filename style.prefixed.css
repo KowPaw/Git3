@@ -5,6 +5,8 @@ body {
 h1,
 h2 {
   color: blue;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex; }
 
 p {
@@ -12,4 +14,4 @@ p {
   color: white;
   text-align: justify; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
